@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.0.11:9743/sonar/" />
+          <token>dfc8dfc8dfcfdf98df9bdf92df98dfcedf9edf9adfccdf99df92dfcfdf98df9edf93df9bdf9cdf92dfccdfccdfccdfc8df93dfc9dfcfdf92dfcedf9bdf92df9cdf9fdf9edf9edfccdf9adf98df9edf98</token>
+          <option name="name" value="Pollex Sonarqube" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
