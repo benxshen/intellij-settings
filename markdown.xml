@@ -1,5 +1,9 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings StylesheetText="body {&#10;    background-color: #ffffea;&#10;}" />
+    <enabledExtensions>
+      <entry key="MermaidLanguageExtension" value="true" />
+      <entry key="PlantUMLLanguageExtension" value="true" />
+    </enabledExtensions>
   </component>
 </application>
