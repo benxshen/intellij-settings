@@ -23,11 +23,11 @@
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
-    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="alt f3" second-keystroke="alt f3" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl f12" />
-    <keyboard-shortcut first-keystroke="alt r" second-keystroke="alt r" />
+    <keyboard-shortcut first-keystroke="alt f3" second-keystroke="f3" />
   </action>
   <action id="GotoSymbol" />
   <action id="GotoTest">
