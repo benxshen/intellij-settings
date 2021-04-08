@@ -1,11 +1,12 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="JetBrains Mono Medium" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
     <option name="LINE_SPACING" value="1.1" />
     <option name="SECONDARY_FONT_FAMILY" value="WenQuanYi Micro Hei Mono" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
 </application>
