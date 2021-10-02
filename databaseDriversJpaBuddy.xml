@@ -1,0 +1,11 @@
+<application>
+  <component name="DatabaseDriversConfigState">
+    <drivers>
+      <db-driver id="com.mysql.cj.jdbc.Driver" version="8.0.21" />
+      <db-driver id="com.mysql.jdbc.Driver" version="5.1.47" />
+      <db-driver id="org.mariadb.jdbc.Driver" version="2.6.0" />
+      <db-driver id="com.microsoft.sqlserver.jdbc.SQLServerDriver" version="9.2.0" />
+      <db-driver id="org.hsqldb.jdbc.JDBCDriver" version="2.4.0" />
+    </drivers>
+  </component>
+</application>
