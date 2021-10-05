@@ -26,11 +26,17 @@
   <action id="FileChooser.GotoHome" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="r" />
-    <keyboard-shortcut first-keystroke="alt f3" />
   </action>
   <action id="GotoBookmark1" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt e" second-keystroke="f3" />
   </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
