@@ -3,7 +3,7 @@
     <property name="created">2022-01-19T23:30:20</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2022-01-19T23:30:47</property>
+    <property name="modified">2022-03-26T07:52:06</property>
     <property name="originalScheme">Gradianto Nature Green</property>
   </metaInfo>
   <colors>
@@ -309,22 +309,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="243525" />
+        <option name="BACKGROUND" value="2e3f41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1b3529" />
+        <option name="BACKGROUND" value="2b433e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="242c33" />
+        <option name="BACKGROUND" value="32443c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="173431" />
+        <option name="BACKGROUND" value="36413b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="363c38" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="363736" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -394,7 +404,7 @@
     </option>
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
     <option name="REGEXP.BRACKETS">
       <value>
         <option name="FOREGROUND" value="4f9c55" />
@@ -405,14 +415,14 @@
         <option name="FOREGROUND" value="75aa7b" />
       </value>
     </option>
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
     <option name="REGEXP.PARENTHS">
       <value>
         <option name="FOREGROUND" value="c2e89b" />
       </value>
     </option>
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="285230" />
