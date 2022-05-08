@@ -6,6 +6,7 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt period" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="CompileDirty">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
@@ -38,8 +39,9 @@
   <action id="GotoSuperMethod">
     <keyboard-shortcut first-keystroke="alt e" second-keystroke="f3" />
   </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="shift f1" />
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt f" />
@@ -57,5 +59,9 @@
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl period" />
     <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
 </keymap>
