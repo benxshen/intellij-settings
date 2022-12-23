@@ -3,13 +3,48 @@
     <property name="created">2020-05-22T23:01:19</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-05-22T23:16:43</property>
+    <property name="modified">2022-04-14T20:37:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="ANNOTATIONS_COLOR" value="626668" />
   </colors>
   <attributes>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="373739" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="353938" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="393a37" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="3b3836" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3b3635" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3b3334" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="382929" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="525252" />
